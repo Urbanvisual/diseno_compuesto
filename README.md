@@ -1,4 +1,4 @@
-# diseno_compuesto
+# diseno_compuesto_flutter
 
 A new Flutter project.
 
